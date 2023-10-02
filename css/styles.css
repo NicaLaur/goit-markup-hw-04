@@ -163,7 +163,7 @@ body {
 .main-section .about-section .dark-section {
     display: flex;
     background-color: rgba(196, 196, 196, 1);
-    width: auto;
+    max-width: 1440px;
      height: 600px;
      top: 80px;
      flex-direction: column;
